@@ -121,7 +121,7 @@ void withdrawMoney()
     }
     else
     {
-        printf("Insufficient Balance.");
+        printf("Low Balance.");
     }
 }
 
